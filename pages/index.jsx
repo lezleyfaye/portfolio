@@ -28,13 +28,7 @@ function Home() {
           </div>
 
           <div className="image-wrapper">
-            <svg
-              width="426"
-              height="543"
-              viewBox="0 0 426 543"
-              fill="none"
-              xmlns="http://www.w3.org/2000/svg"
-            >
+            <svg width="426" height="543" viewBox="0 0 426 543" fill="none">
               <path
                 fillRule="evenodd"
                 clipRule="evenodd"
